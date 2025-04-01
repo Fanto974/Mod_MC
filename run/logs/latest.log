@@ -140,12 +140,12 @@ com.mojang.realmsclient.exception.RealmsServiceException: Realms authentication 
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [01avr.2025 16:19:39.598] [Worker-Main-5/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_jp_patch-16.0.01.hex, loading
-[01avr.2025 16:19:40.049] [Worker-Main-6/INFO] [com.example.examplemod.ExampleMod/]: HELLO FROM COMMON SETUP
-[01avr.2025 16:19:40.049] [Worker-Main-6/INFO] [com.example.examplemod.ExampleMod/]: DIRT BLOCK >> minecraft:dirt
-[01avr.2025 16:19:40.049] [Worker-Main-6/INFO] [com.example.examplemod.ExampleMod/]: The magic number is... 42
-[01avr.2025 16:19:40.050] [Worker-Main-6/INFO] [com.example.examplemod.ExampleMod/]: ITEM >> minecraft:iron_ingot
-[01avr.2025 16:19:40.086] [Worker-Main-2/INFO] [com.example.examplemod.ExampleMod/]: HELLO FROM CLIENT SETUP
-[01avr.2025 16:19:40.087] [Worker-Main-2/INFO] [com.example.examplemod.ExampleMod/]: MINECRAFT NAME >> Dev
+[01avr.2025 16:19:40.049] [Worker-Main-6/INFO] [net.fanto974.firstmod.ExampleMod/]: HELLO FROM COMMON SETUP
+[01avr.2025 16:19:40.049] [Worker-Main-6/INFO] [net.fanto974.firstmod.ExampleMod/]: DIRT BLOCK >> minecraft:dirt
+[01avr.2025 16:19:40.049] [Worker-Main-6/INFO] [net.fanto974.firstmod.ExampleMod/]: The magic number is... 42
+[01avr.2025 16:19:40.050] [Worker-Main-6/INFO] [net.fanto974.firstmod.ExampleMod/]: ITEM >> minecraft:iron_ingot
+[01avr.2025 16:19:40.086] [Worker-Main-2/INFO] [net.fanto974.firstmod.ExampleMod/]: HELLO FROM CLIENT SETUP
+[01avr.2025 16:19:40.087] [Worker-Main-2/INFO] [net.fanto974.firstmod.ExampleMod/]: MINECRAFT NAME >> Dev
 [01avr.2025 16:19:40.118] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
 [01avr.2025 16:19:40.656] [Worker-Main-2/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing model for variant: 'Block{examplemod:example_block}'
 [01avr.2025 16:19:40.779] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 55.0.3 Target: 55.0.3
@@ -188,7 +188,7 @@ com.mojang.realmsclient.exception.RealmsServiceException: Realms authentication 
 [01avr.2025 16:20:09.228] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
 [01avr.2025 16:20:09.386] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3677 ms
 [01avr.2025 16:20:09.388] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[01avr.2025 16:20:09.388] [Server thread/INFO] [com.example.examplemod.ExampleMod/]: HELLO from server starting
+[01avr.2025 16:20:09.388] [Server thread/INFO] [net.fanto974.firstmod.ExampleMod/]: HELLO from server starting
 [01avr.2025 16:20:09.486] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 12, from 10
 [01avr.2025 16:20:09.486] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 12, from 0
 [01avr.2025 16:20:10.179] [Render thread/INFO] [net.minecraftforge.common.ForgeHooks/]: Connected to a modded server.
