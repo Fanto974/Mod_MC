@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package net.fanto974.firstmod;
 
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
